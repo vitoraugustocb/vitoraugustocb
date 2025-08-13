@@ -1,5 +1,14 @@
-## Hi there 👋
+## Olá 👋
 
+Meu nome é Vitor Augusto, moro em São Paulo, tenho 29 anos e estou cursando Análise e Desenvolvimento de Sistemas. Tenho formação em Marketing e tive experiência trabalhando no setor administrativo e agora estou estudando programação e buscando oportunidades para ingressar nessa área. Sinta-se a vontade para explorar meus projetos e entrar em contato comigo. 
+### Atualmente estou aprendendo 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=50 width=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height=50 width=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=50 width=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50 width=50 />
+## Contatos:
+<div>
+<a href = "mailto:vitor.acb@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vitor-augustocb/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>          
+          
 <!--
 **vitoraugustocb/vitoraugustocb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
